@@ -3,6 +3,8 @@
 
 ### 1. Big Data Analysis to a Slide Presentation 
 ##### bq-sheets-slides.gs
+##### Most common words in all of Shakespeare's works.xlsx
+##### Most common words in all of Shakespeare's works.pptx
 This lab covers Google Cloud's BigQuery API (as an Apps Script advanced service) and the built-in Apps Script services for Google Sheets and Google Slides.
 
 The lab also sets up a scenario that closely resembles real life. The app used showcases features and APIs from across Google Cloud. The goal is to demonstrate how you can leverage both Google Cloud and Workspace to solve challenging problems for your organization or your customers.
