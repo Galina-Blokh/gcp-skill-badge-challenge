@@ -20,7 +20,7 @@
 - Use Calculated columns to create a new column from transformations/combinations of existing columns.
 - Use Scheduled refresh to set up automatic data refreshes for your analyses.
 ### 3.Google Apps Script: Access Google Sheets, Maps & Gmail in 4 Lines of Code
-####Hello Maps!.gs
+#### Hello Maps!.gs
 <br>In this lab:
 - Learn a bit about Apps Script... enough to get you going
 - Create a new Google Sheets spreadsheet
