@@ -28,6 +28,7 @@
 - Edit Apps Script code, save, and run it
 - Use Gmail to see the fruits of your labor!
 ### 4. Integrate BigQuery Data and Google Workspace using Apps Script: Challenge Lab
+#### Integrate BigQuery Data.xlsx
 <br>In a challenge lab:
 - given a scenario and a set of tasks.
 - Instead of following step-by-step instructions, 
